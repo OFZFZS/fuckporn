@@ -8,7 +8,7 @@
 
 ## 截图展示
 
-![展示图片](https://github.com/zyc10758/glype-hans/blob/master/images/3.jpg?raw=true)![展示图片](https://github.com/zyc10758/glype-hans/blob/master/images/1.jpg?raw=true)
+![展示图片](https://github.com/OFZFZS/fuckporn/blob/master/screenshot/1.gif?raw=true)![展示图片](https://github.com/OFZFZS/fuckporn/blob/master/screenshot/2.gif?raw=true)
 
 ## 部分代码和功能
 
@@ -20,7 +20,7 @@
 
 - 安全无毒未加壳
 
-  ![展示图片](https://github.com/zyc10758/glype-hans/blob/master/images/1.jpg?raw=true)
+  ![展示图片](https://github.com/OFZFZS/fuckporn/blob/master/screenshot/code.png?raw=true)
 
 
 
