@@ -8,7 +8,10 @@
 
 ## 截图展示
 
-![展示图片](https://github.com/OFZFZS/fuckporn/blob/master/screenshot/1.gif?raw=true)![展示图片](https://github.com/OFZFZS/fuckporn/blob/master/screenshot/2.gif?raw=true)
+![展示图片](https://github.com/OFZFZS/fuckporn/blob/master/screenshot/1.gif?raw=true)
+
+
+![展示图片](https://github.com/OFZFZS/fuckporn/blob/master/screenshot/2.gif?raw=true)
 
 ## 部分代码和功能
 
